@@ -61,3 +61,5 @@ class MyApp extends StatelessWidget {
     );
   }
 }
+
+// flutter create --template=package mediaplayer_functionality
